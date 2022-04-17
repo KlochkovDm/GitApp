@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GitApp</string>
+    <string name="login_hint">GitHub Login</string>
+    <string name="login_helper_text">GitHub Login</string>
+    <string name="recycler_item_draft_name">Unknown User / Repo</string>
+    <string name="fragment_details_username_text_view_draft">User Name</string>
 </resources>
